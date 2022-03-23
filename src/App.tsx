@@ -5,7 +5,7 @@ function App(): JSX.Element {
     return (
         <div className="App">
             <header className="App-header">
-                Welcome to UD CISC275 Agile Activity
+                Welcome to UD CISC275 Agile Activity - Lexi and Sarah
             </header>
             <p>
                 Edit <code>src/App.tsx</code> and save. This page will
