@@ -8,7 +8,11 @@ function App(): JSX.Element {
             <header className="App-header">
                 Assistive Technology Progress
             </header>
-            <Button id="ex-button" onClick={() => console.log("clicked")}>
+            <Button
+                id="ex-button"
+                className="button"
+                onClick={() => console.log("clicked")}
+            >
                 Button!
             </Button>
         </div>
